@@ -1,0 +1,28 @@
+@font-face {
+    font-family: 'fishing';
+    src:  url('../fonts/fishing.eot?grwc4');
+    src:  url('../fonts/fishing.eot?grwc4#iefix') format('embedded-opentype'),
+      url('../fonts/fishing.ttf?grwc4') format('truetype'),
+      url('../fonts/fishing.woff?grwc4') format('woff'),
+      url('../fonts/fishing.svg?grwc4#fishing') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+  }
+  
+  .fishing {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'fishing' !important;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+ .fishing-home:before{content:"\e900"}.fishing-equalizer:before{content:"\e992"}.fishing-amazon:before{content:"\ea87"}.fishing-google-plus:before{content:"\ea8b"}.fishing-facebook:before{content:"\ea90"}.fishing-instagram:before{content:"\ea92"}.fishing-whatsapp:before{content:"\ea93"}.fishing-twitter:before{content:"\ea96"}.fishing-vk:before{content:"\ea98"}.fishing-rss:before{content:"\ea9b"}.fishing-youtube:before{content:"\ea9d"}.fishing-twitch:before{content:"\ea9f"}.fishing-steam:before{content:"\eaac"}.fishing-github:before{content:"\eab0"}.fishing-blogger:before{content:"\eab7"}.fishing-tumblr:before{content:"\eab9"}.fishing-skype:before{content:"\eac5"}.fishing-linkedin2:before{content:"\eaca"}.fishing-pinterest:before{content:"\ead1"}
+  @import 'icon2';

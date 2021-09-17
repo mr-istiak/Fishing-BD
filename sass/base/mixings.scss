@@ -1,0 +1,33 @@
+@mixin animate ( $attr, $time){
+    -webkit-transition: $attr $time ease;
+    -moz-transition: $attr $time ease;
+    -ms-transition: $attr $time ease;
+    -o-transition: $attr $time ease;
+    transition: $attr $time ease;
+}
+
+@mixin transform( $val ) {
+    -webkit-transform: $val;
+    -moz-transform: $val;
+    -ms-transform: $val;
+    -o-transform: $val;
+    transform: $val;
+}
+
+@mixin fullwidth (){
+	width: 100%;
+	height: auto;
+}
+@mixin top-menu-dropdown() {
+    display: none;
+    position: absolute;
+    list-style: none;
+    background: #212529;
+    padding: 0px;
+  }
+@mixin border {
+  border-top: 0px;
+  border-left: 0px;
+  border-right: 0px;
+  border-style: solid;
+}

@@ -1,0 +1,70 @@
+@font-face {
+    font-family: 'fishing-icon2';
+    src:  url('../fonts/fishing-icon2.eot?ktwlq');
+    src:  url('../fonts/fishing-icon2.eot?ktwlq#iefix') format('embedded-opentype'),
+      url('../fonts/fishing-icon2.ttf?ktwlq') format('truetype'),
+      url('../fonts/fishing-icon2.woff?ktwlq') format('woff'),
+      url('../fonts/fishing-icon2.svg?ktwlq#fishing-icon2') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+  }
+  
+  .fishing-icon2 {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'fishing-icon2' !important;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  .fishing-icon2-search:before {
+    content: "\e900";
+  }
+  .fishing-icon2-spinner9:before {
+    content: "\e982";
+  }
+  .fishing-icon2-search1:before {
+    content: "\e986";
+  }
+  .fishing-icon2-upload3:before {
+    content: "\e9c8";
+  }
+  .fishing-icon2-link:before {
+    content: "\e9cb";
+  }
+  
+  @font-face {
+    font-family: 'fishing-icon3';
+    src:  url('../fonts/fishing-icon3.eot?ksk4it');
+    src:  url('../fonts/fishing-icon3.eot?ksk4it#iefix') format('embedded-opentype'),
+      url('../fonts/fishing-icon3.ttf?ksk4it') format('truetype'),
+      url('../fonts/fishing-icon3.woff?ksk4it') format('woff'),
+      url('../fonts/fishing-icon3.svg?ksk4it#fishing-icon3') format('svg');
+    font-weight: normal;
+    font-style: normal;
+    font-display: block;
+  }
+  
+  .fishing-icon3 {
+    /* use !important to prevent issues with browser extensions that change fonts */
+    font-family: 'fishing-icon3' !important;
+    font-style: normal;
+    font-weight: normal;
+    font-variant: normal;
+    text-transform: none;
+    line-height: 1;
+  
+    /* Better Font Rendering =========== */
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+ .fishing-icon3-pencil:before{content:"\e905"}.fishing-icon3-undo:before{content:"\e965"}.fishing-icon3-redo:before{content:"\e966"}.fishing-icon3-undo2:before{content:"\e967"}.fishing-icon3-redo2:before{content:"\e968"}.fishing-icon3-forward:before{content:"\e969"}.fishing-icon3-reply:before{content:"\e96a"}.fishing-icon3-plus:before{content:"\ea0a"}.fishing-icon3-cross:before{content:"\ea0f"}.fishing-icon3-checkmark:before{content:"\ea10"}.fishing-icon3-play3:before{content:"\ea1c"}.fishing-icon3-pause2:before{content:"\ea1d"}.fishing-icon3-stop2:before{content:"\ea1e"}.fishing-icon3-paragraph-left:before{content:"\ea77"}.fishing-icon3-paragraph-center:before{content:"\ea78"}.fishing-icon3-paragraph-right:before{content:"\ea79"}.fishing-icon3-paragraph-justify:before{content:"\ea7a"}.fishing-icon3-share2:before{content:"\ea82"}
+  
