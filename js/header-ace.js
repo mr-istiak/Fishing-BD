@@ -1,0 +1,1 @@
+function ace_code_editor(e,a,t=null){var d=ace.edit(e);d.setTheme("ace/theme/monokai"),d.session.setMode("ace/mode/"+a),jQuery(".auto-submit").on("submit",()=>{jQuery(t).val(d.getSession().getValue())})}
